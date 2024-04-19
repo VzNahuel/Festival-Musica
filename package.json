@@ -4,6 +4,7 @@
   "description": "Proyecto con GULP, SASS y HTML",
   "main": "index.js",
   "scripts": {
+    "test": "echo: \"Hola\" ",
     "sass": "sass --watch src/scss:build/css",
     "gulp": "gulp"
   },
